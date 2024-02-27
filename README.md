@@ -1,4 +1,4 @@
-# <a href='http://pluralsight.com'><img src='' height='60' alt='Pluralsight Logo'/></a> Sample repo on Github 
+# <a href='http://pluralsight.com'><img src='https://github.com/AmandaPilsuma/ubiquitous-carnival/blob/main/favicon.ico' height='60' alt='Pluralsight Logo'/></a> Sample repo on Github 
 
 ## GitHub Getting started
 
